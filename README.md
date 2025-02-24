@@ -1,10 +1,10 @@
-```markdown
+```
+```
 # Emergency Response System 🚨
 
-![Emergency System Demo](https://via.placeholder.com/800x400.png?text=Emergency+Response+Demo) *Example screenshot placeholder*
-
 A comprehensive emergency management system combining AI, geolocation, and real-time notifications to provide immediate crisis assistance.
-
+```
+```
 ## Features ✨
 
 - 📝 **Multi-modal Input** - Text description or PDF document upload
@@ -15,6 +15,9 @@ A comprehensive emergency management system combining AI, geolocation, and real-
 - 📄 **Document Processing** - PDF text extraction capabilities
 - 🔍 **Entity Recognition** - Custom spaCy NLP pipeline for situation analysis
 
+Here's the **corrected installation section** with proper Markdown formatting:
+```
+```
 ## Installation ⚙️
 
 1. **Clone Repository**
@@ -38,6 +41,9 @@ TWILIO_ACCOUNT_SID = 'your_twilio_sid'
 TWILIO_AUTH_TOKEN = 'your_twilio_token' 
 GEMINI_API_KEY = 'your_gemini_key'
 ```
+
+
+
 
 ## Usage 🚀
 
