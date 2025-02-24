@@ -131,6 +131,3 @@ MIT License - See [LICENSE](LICENSE) for full text
 
 ---
 
-**Important Security Note** 🔒  
-Never commit actual API keys to version control. Use environment variables or .gitignore for production deployments.
-```
