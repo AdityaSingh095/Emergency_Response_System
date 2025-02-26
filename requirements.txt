@@ -1,0 +1,7 @@
+google-generativeai
+PyPDF2
+requests
+torch
+Pillow
+spacy
+twilio
